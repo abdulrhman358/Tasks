@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+.container {
+    background: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 80%;
+    margin: auto;
+}
+input, select, button {
+    padding: 10px;
+    margin: 5px 0;
+    width: 95%;
+    font-size: 16px;
+}
+.checkbox-group {
+    margin: 10px 0;
+}
+.checkbox-group input {
+    width: auto;
+}
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #333;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+.btn-add { 
+    background-color: green; 
+    color: white; 
+    cursor: pointer; 
+}
+.btn-update { 
+    background-color: orange; 
+    color: white; 
+    cursor: pointer; 
+    display: none; 
+}
