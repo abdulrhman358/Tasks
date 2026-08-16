@@ -1,0 +1,4 @@
+/* نفس تنسيق الـ Team عشان يبقى شكلهم موحد */
+.box-container { margin: 20px; border: 1px solid #ddd; }
+.header { padding: 15px; color: white; text-align: center; font-weight: bold; }
+.body { padding: 20px; background-color: #f9f9f9; text-align: center; }
